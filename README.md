@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <!-- Github Metrics -->
 <img align="left" src="https://github.com/vincentfqt/vincentfqt/blob/master/github-metrics.svg" width="450" alt="Vincent FqT's Dev Card"/>
 <!-- Dev Card on DailyDev -->
-<a href="https://app.daily.dev/vincentfqt" target="_blank"><img align="right" src="https://github.com/vincentfqt/vincentfqt/blob/master/devcard.svg" width="250" alt="Vincent FqT's Dev Card"/></a>
+<a href="https://app.daily.dev/vincentfqt" target="_blank"><img align="right" src="https://github.com/vincentfqt/vincentfqt/blob/master/devcard.svg" width="300" alt="Vincent FqT's Dev Card"/></a>
