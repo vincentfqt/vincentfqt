@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](https://github.com/vincentfqt/vincentfqt/blob/master/github-metrics.svg)
+<a href="https://app.daily.dev/vincentfqt"><img src="https://github.com/vincentfqt/vincentfqt/blob/master/devcard.svg" width="400" alt="Vincent FqT's Dev Card"/></a>
