@@ -18,7 +18,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
           plugin_pagespeed_detailed: no                         # Print detailed audit metrics
           plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: vincentfqt.github.io                    # Website to audit (defaults to your GitHub linked website)
+          plugin_pagespeed_url: portfolio.vincentfqt.dev         # to audit (defaults to your GitHub linked website)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
